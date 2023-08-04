@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nahcy3224.github.io/blog/</loc>
+    <lastmod>2023-07-29T13:49:23+06:00</lastmod>
+  </url><url>
+    <loc>https://nahcy3224.github.io/</loc>
+    <lastmod>2023-07-29T13:49:23+06:00</lastmod>
+  </url><url>
     <loc>https://nahcy3224.github.io/categories/</loc>
     <lastmod>2023-07-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://nahcy3224.github.io/categories/eat-and-play/</loc>
-    <lastmod>2023-07-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://nahcy3224.github.io/</loc>
     <lastmod>2023-07-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://nahcy3224.github.io/tags/</loc>
@@ -51,9 +54,6 @@
     <lastmod>2023-07-01T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://nahcy3224.github.io/about/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>https://nahcy3224.github.io/blog/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
     <loc>https://nahcy3224.github.io/contact/</loc>
