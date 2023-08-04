@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>雲端服務 on Mei</title>
+    <link>https://nahcy3224.github.io/tags/%E9%9B%B2%E7%AB%AF%E6%9C%8D%E5%8B%99/</link>
+    <description>Recent content in 雲端服務 on Mei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://nahcy3224.github.io/tags/%E9%9B%B2%E7%AB%AF%E6%9C%8D%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>透過免費機器開關資料庫</title>
+      <link>https://nahcy3224.github.io/blog/start-stop-node-on-dbcs-oci/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://nahcy3224.github.io/blog/start-stop-node-on-dbcs-oci/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
