@@ -6,14 +6,14 @@
     <description>Recent content in OracleCloud on Mei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://nahcy3224.github.io/tags/oraclecloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Oct 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://nahcy3224.github.io/tags/oraclecloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>透過免費機器開關資料庫</title>
+      <title>[Oracle Cloud]透過免費機器Compute開關資料庫(Base Database Service)</title>
       <link>https://nahcy3224.github.io/blog/start-stop-node-on-dbcs-oci/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Sun, 29 Oct 2023 10:07:47 +0600</pubDate>
       
       <guid>https://nahcy3224.github.io/blog/start-stop-node-on-dbcs-oci/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <description>Base Database Service 前身被稱為 DataBase Cloud Service ， 就是在Oracle Cloud 上建立一服務。</description>
     </item>
     
   </channel>
